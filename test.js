@@ -1,0 +1,1 @@
+// bu alan git sistemini  ögrenmek icin olusturulmusutur
